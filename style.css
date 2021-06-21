@@ -1,0 +1,33 @@
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+.sedan {
+    
+    background-color: hsl(31, 37%, 44%);
+    width: 350px;
+    height:700px;   
+}
+
+    
+}
+.button {
+    padding: 10px;
+    border-radius: 20px;
+    
+  
+
+}
+.suv{
+    background-color: hsl(184, 100%, 22%);
+    width: 350px;
+    height:700px; 
+}
+
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+    width: 350px;
+    height:700px; 
+    order:-1
+    
+}
